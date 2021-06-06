@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Breakout_ER-TFT1.28-2\Breakout_ER-TFT1.28-2.PrjPcb
+[Project2]
+ProjectPath=..\Libraries\Open-Wearable.LibPkg
+[Project3]
+ProjectPath=..\..\..\..\thesis_altium_libraries\Libraries\Libraries.LibPkg

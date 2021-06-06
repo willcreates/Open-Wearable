@@ -1,0 +1,114 @@
+Added Component: Designator=CNR1(0K-24F024-04)
+Added Component: Designator=CNR2(SIP06-2.54P)
+Add component (AddParameter): Name = "Cmmt"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pads/Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "THT(y/n)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CNR3(SIP06-2.54P)
+Add component (AddParameter): Name = "Cmmt"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pads/Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "THT(y/n)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CNR4(SIP06-2.54P)
+Add component (AddParameter): Name = "Cmmt"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pads/Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "THT(y/n)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CNR5(SIP06-2.54P)
+Add component (AddParameter): Name = "Cmmt"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pads/Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "THT(y/n)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCNR1_1 Pin=CNR1-1
+Added Pin To Net: NetName=NetCNR1_1 Pin=CNR2-1
+Added Net: Name=NetCNR1_1
+Added Pin To Net: NetName=NetCNR1_2 Pin=CNR1-2
+Added Pin To Net: NetName=NetCNR1_2 Pin=CNR2-2
+Added Net: Name=NetCNR1_2
+Added Pin To Net: NetName=NetCNR1_3 Pin=CNR1-3
+Added Pin To Net: NetName=NetCNR1_3 Pin=CNR2-3
+Added Net: Name=NetCNR1_3
+Added Pin To Net: NetName=NetCNR1_4 Pin=CNR1-4
+Added Pin To Net: NetName=NetCNR1_4 Pin=CNR2-4
+Added Net: Name=NetCNR1_4
+Added Pin To Net: NetName=NetCNR1_5 Pin=CNR1-5
+Added Pin To Net: NetName=NetCNR1_5 Pin=CNR2-5
+Added Net: Name=NetCNR1_5
+Added Pin To Net: NetName=NetCNR1_6 Pin=CNR1-6
+Added Pin To Net: NetName=NetCNR1_6 Pin=CNR2-6
+Added Net: Name=NetCNR1_6
+Added Pin To Net: NetName=NetCNR1_7 Pin=CNR1-7
+Added Pin To Net: NetName=NetCNR1_7 Pin=CNR3-1
+Added Net: Name=NetCNR1_7
+Added Pin To Net: NetName=NetCNR1_8 Pin=CNR1-8
+Added Pin To Net: NetName=NetCNR1_8 Pin=CNR3-2
+Added Net: Name=NetCNR1_8
+Added Pin To Net: NetName=NetCNR1_9 Pin=CNR1-9
+Added Pin To Net: NetName=NetCNR1_9 Pin=CNR3-3
+Added Net: Name=NetCNR1_9
+Added Pin To Net: NetName=NetCNR1_10 Pin=CNR1-10
+Added Pin To Net: NetName=NetCNR1_10 Pin=CNR3-4
+Added Net: Name=NetCNR1_10
+Added Pin To Net: NetName=NetCNR1_11 Pin=CNR1-11
+Added Pin To Net: NetName=NetCNR1_11 Pin=CNR3-5
+Added Net: Name=NetCNR1_11
+Added Pin To Net: NetName=NetCNR1_12 Pin=CNR1-12
+Added Pin To Net: NetName=NetCNR1_12 Pin=CNR3-6
+Added Net: Name=NetCNR1_12
+Added Pin To Net: NetName=NetCNR1_13 Pin=CNR1-13
+Added Pin To Net: NetName=NetCNR1_13 Pin=CNR4-6
+Added Net: Name=NetCNR1_13
+Added Pin To Net: NetName=NetCNR1_14 Pin=CNR1-14
+Added Pin To Net: NetName=NetCNR1_14 Pin=CNR4-5
+Added Net: Name=NetCNR1_14
+Added Pin To Net: NetName=NetCNR1_15 Pin=CNR1-15
+Added Pin To Net: NetName=NetCNR1_15 Pin=CNR4-4
+Added Net: Name=NetCNR1_15
+Added Pin To Net: NetName=NetCNR1_16 Pin=CNR1-16
+Added Pin To Net: NetName=NetCNR1_16 Pin=CNR4-3
+Added Net: Name=NetCNR1_16
+Added Pin To Net: NetName=NetCNR1_17 Pin=CNR1-17
+Added Pin To Net: NetName=NetCNR1_17 Pin=CNR4-2
+Added Net: Name=NetCNR1_17
+Added Pin To Net: NetName=NetCNR1_18 Pin=CNR1-18
+Added Pin To Net: NetName=NetCNR1_18 Pin=CNR4-1
+Added Net: Name=NetCNR1_18
+Added Pin To Net: NetName=NetCNR1_19 Pin=CNR1-19
+Added Pin To Net: NetName=NetCNR1_19 Pin=CNR5-6
+Added Net: Name=NetCNR1_19
+Added Pin To Net: NetName=NetCNR1_20 Pin=CNR1-20
+Added Pin To Net: NetName=NetCNR1_20 Pin=CNR5-5
+Added Net: Name=NetCNR1_20
+Added Pin To Net: NetName=NetCNR1_21 Pin=CNR1-21
+Added Pin To Net: NetName=NetCNR1_21 Pin=CNR5-4
+Added Net: Name=NetCNR1_21
+Added Pin To Net: NetName=NetCNR1_22 Pin=CNR1-22
+Added Pin To Net: NetName=NetCNR1_22 Pin=CNR5-3
+Added Net: Name=NetCNR1_22
+Added Pin To Net: NetName=NetCNR1_23 Pin=CNR1-23
+Added Pin To Net: NetName=NetCNR1_23 Pin=CNR5-2
+Added Net: Name=NetCNR1_23
+Added Pin To Net: NetName=NetCNR1_24 Pin=CNR1-24
+Added Pin To Net: NetName=NetCNR1_24 Pin=CNR5-1
+Added Net: Name=NetCNR1_24
+Added Class: Name=Breakout_ER-TFT1.28-2
